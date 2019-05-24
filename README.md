@@ -1,2 +1,2 @@
-# fe-training-102
-C&amp;T FE-102 Sass Training
+# git-training101
+C&amp;T Training for Jr. Full Stack - FE-101

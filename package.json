@@ -1,0 +1,15 @@
+{
+  "name": "sass-training",
+  "version": "1.0.0",
+  "description": "C&amp;T Training for Jr. Full Stack - FE-101",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "scripts": {
+    "css": "node-sass src/scss/style.scss --output dist/css --output-style compressed --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
